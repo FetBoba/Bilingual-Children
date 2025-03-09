@@ -2,7 +2,7 @@
 BERT-based Model for Classifying Suitable English Sentences for Bilingual Children
 
 ## Overview
-This project aims to develop a BERT-based model to classify English sentences as suitable or unsuitable for bilingual children. The model is trained on datasets containing hate speech and offensive language, and it is fine-tuned to identify sentences that are appropriate for children.
+This project aims to develop a BERT-based model to classify English sentences as suitable or unsuitable for bilingual children. The model is trained on datasets containing hate speech and offensive language, and fine-tuned to identify sentences that are appropriate for children.
 
 ## Installation
 To get started, clone the repository and install the required libraries:
@@ -27,4 +27,5 @@ The model achieves high accuracy and F1 scores, making it effective in classifyi
 
 ## Authors
 -Fetullakh Sam
+
 -Ma Sum Yi
