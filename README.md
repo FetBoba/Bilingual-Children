@@ -26,6 +26,5 @@ pip install -r requirements.txt
 The model achieves high accuracy and F1 scores, making it effective in classifying sentences for bilingual children. Detailed results and performance metrics can be found in the `Metrics.ipynb` notebook and the `Report.pdf` file.
 
 ## Authors
--Fetullakh Sam
-
--Ma Sum Yi
+- Fetullakh Sam
+- Ma Sum Yi
